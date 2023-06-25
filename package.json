@@ -10,6 +10,10 @@
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuAleksandr/8.3_projavascript_platform1.git"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
